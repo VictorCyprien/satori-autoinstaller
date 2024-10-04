@@ -13,7 +13,7 @@ All credit for this script goes to [LaMaT1111](https://github.com/lamat1111/pass
 
 ## Run the script :
 
-To run the script, simply paste this command : `TODO`
+To run the script, simply paste this command : `wget -O - https://raw.githubusercontent.com/VictorCyprien/satori-autoinstaller/main/satori_auto_install.sh | bash`
 
 This will do the following :
 
